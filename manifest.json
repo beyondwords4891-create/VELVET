@@ -1,0 +1,8 @@
+{
+  "name": "VELVET",
+  "short_name": "VELVET",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#FFC0CB",
+  "theme_color": "#FF69B4"
+}
